@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 curry
 bun bo hue
 sushi
+=======
+X-files
+Games of Thrones
+Hunger Games
+>>>>>>> movies
